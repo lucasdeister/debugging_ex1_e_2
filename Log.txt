@@ -1,0 +1,21 @@
+abr. 28, 2023 5:40:14 PM debugging_ex1_ex2.Principal main
+INFO: Log de informação
+abr. 28, 2023 5:40:14 PM debugging_ex1_ex2.Principal main
+WARNING: Log de aviso
+abr. 28, 2023 5:40:14 PM debugging_ex1_ex2.Principal main
+SEVERE: Log severo
+abr. 28, 2023 5:40:14 PM debugging_ex1_ex2.Principal main
+INFO: 
+ O programa iniciou a calculadora
+abr. 28, 2023 5:42:40 PM debugging_ex1_ex2.Principal main
+INFO: Log de informação
+abr. 28, 2023 5:42:40 PM debugging_ex1_ex2.Principal main
+WARNING: Log de aviso
+abr. 28, 2023 5:42:40 PM debugging_ex1_ex2.Principal main
+SEVERE: Log severo
+abr. 28, 2023 5:42:40 PM debugging_ex1_ex2.Principal main
+INFO: 
+ O programa iniciou a calculadora
+abr. 28, 2023 5:42:45 PM debugging_ex1_ex2.Principal main
+INFO: 
+ O programa terminou a operação da calculadora. O resultado é = 5.0
